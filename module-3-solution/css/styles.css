@@ -128,7 +128,7 @@ section {
 }
 
 #nav-list {
-  color: white;
+  color: black;
 }
 
 hr {
@@ -136,6 +136,6 @@ hr {
 }
 
 .item {
-  color: white;
+  color: black;
   font-size: 1.2em;
 }
